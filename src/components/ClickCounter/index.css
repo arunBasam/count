@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.heading {
+  color: #2d3a35;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
